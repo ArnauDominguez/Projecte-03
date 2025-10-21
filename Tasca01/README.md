@@ -82,7 +82,7 @@ Es tracta d’una **tasca individual**.
 
 Dins del **repositori del projecte-3**, heu de crear:
 
-- [Solució](Tasca01/SOLUCIO.md)
-- 
+- A l'arxiu [solucio.md](SOLUCIO.md) hi ha solució descrita.
+- [Tornar pàgina projecte](../README.md)
 
 
