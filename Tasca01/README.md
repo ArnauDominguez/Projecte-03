@@ -74,15 +74,8 @@ Utilitzant l’eina seleccionada a la Fase 1 (*Bitwarden*, *KeePassX*, o similar
 
 ---
 
-## 📂 Lliurament de la Tasca
+A l'arxiu [solucio.md](SOLUCIO.md) hi ha solució descrita.
 
-Es tracta d’una **tasca individual**.  
-
-### 📁 Estructura del repositori
-
-Dins del **repositori del projecte-3**, heu de crear:
-
-- A l'arxiu [solucio.md](SOLUCIO.md) hi ha solució descrita.
-- [Tornar pàgina projecte](../README.md)
+[Tornar pàgina projecte](../README.md)
 
 
