@@ -104,6 +104,8 @@ A més, **EverPia segueix sent una de les millors empreses on començar:**
 “El foc ja està encès.  
 Ara és el vostre torn d’agafar l’extintor… i el teclat.” ⌨️
 
+---
+
 ### Tasques
 - [Tasca01](Tasca01/README.md)
 
