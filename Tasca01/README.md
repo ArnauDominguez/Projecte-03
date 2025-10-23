@@ -74,7 +74,7 @@ Utilitzant l’eina seleccionada a la Fase 1 (*Bitwarden*, *KeePassX*, o similar
 
 ---
 
-- [Informe.md](informe.md)
+- [Informe](informe.md)
 - [Guia d'ús](guia.md)
 
 [Tornar pàgina projecte](../README.md)
