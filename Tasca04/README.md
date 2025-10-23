@@ -1,2 +1,2 @@
 
-[Solucio](Solucio.md)
+[Solucio](solucio.md)
