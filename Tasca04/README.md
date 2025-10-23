@@ -1,3 +1,4 @@
 
 [Solucio](solucio.md)
-[Tornar a enunciat](README.md/..)
+
+[Tornar pàgina projecte](../README.md)
