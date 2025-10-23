@@ -74,7 +74,7 @@ Utilitzant l’eina seleccionada a la Fase 1 (*Bitwarden*, *KeePassX*, o similar
 
 ---
 
-A l'arxiu [solucio.md](SOLUCIO.md) hi ha solució descrita.
+A l'arxiu [solucio.md](informe.md) hi ha solució descrita.
 
 [Tornar pàgina projecte](../README.md)
 
