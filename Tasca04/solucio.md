@@ -53,5 +53,4 @@
 
 <img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20182127.png?raw=true "/>
 
-<img src=" "/>
 [Tornar a enunciat](README.md)
