@@ -37,21 +37,21 @@
 
 <img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-23%20205427.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-30%20203911.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20180459.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20180523.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20180111.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20181626.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20181705.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20182047.png?raw=true "/>
 
-<img src=" "/>
+<img src="https://github.com/ArnauDominguez/Projecte-03/blob/main/Tasca04/img/Captura%20de%20pantalla%202025-10-29%20182127.png?raw=true "/>
 
 <img src=" "/>
 [Tornar a enunciat](README.md)
