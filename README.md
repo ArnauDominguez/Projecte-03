@@ -108,6 +108,11 @@ Ara és el vostre torn d’agafar l’extintor… i el teclat.” ⌨️
 
 ### Tasques
 - [Tasca01](Tasca01/README.md)
+- [Tasca02](Tasca02/README.md)
+- [Tasca03](Tasca03/README.md)
 - [Tasca04](Tasca04/README.md)
+- [Tasca05](Tasca05/README.md)
+- [Tasca06](Tasca06/README.md)
+- [Tasca07](Tasca07/README.md)
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
