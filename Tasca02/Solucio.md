@@ -1,2 +1,2 @@
 
-[Tornar a la tasca](Tasca02/README.md)
+[Tornar a enunciat](README.md)
