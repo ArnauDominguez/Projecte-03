@@ -111,6 +111,15 @@ Ara és el vostre torn d’agafar l’extintor… i el teclat.” ⌨️
 - [Tasca02](Tasca02/README.md)
 - [Tasca03](Tasca03/README.md)
 - [Tasca04](Tasca04/README.md)
-
+- [Tasca05](Tasca05/README.md)
+- [Tasca06](Tasca06/README.md)
+- [Tasca07](Tasca07/README.md)
+- [Tasca08](Tasca08/README.md)
+- [P01](P01/README.md)
+- [P02](P02/README.md)
+- [P03](P03/README.md)
+- [P04](P04/README.md)
+- [P05](P05/README.md)
+- [P06](P06/README.md)
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
