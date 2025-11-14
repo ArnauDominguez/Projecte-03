@@ -78,4 +78,6 @@ Documentar la creació de diferents tipus de resiliència:
 
 La documentació s’ha de guardar en format **Markdown** dins una carpeta:
 
+[Solucio](solucio.md)
 
+[Tornar pàgina projecte](../README.md)
