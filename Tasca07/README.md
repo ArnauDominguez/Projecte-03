@@ -101,7 +101,7 @@ A `named.conf.local`, afegir permisos perquè els companys puguin rebre la zona 
 ## 📝 Activitat d’avaluació final
 Al final passareu una **avaluació pràctica**, on només podreu utilitzar **un full manuscrit** amb anotacions pròpies, que es lliurarà al final.
 
-```markdown
+```markdown```
 
 [Solucio](Solucio.md)
 
