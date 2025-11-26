@@ -87,6 +87,7 @@ producte04/
 Això garantirà una estructura clara i fàcil de replicar en qualsevol servidor Linux que utilitzi **Bind9**.
 
 
-[Arxiun named.conf.local](named.conf.local)
-
+[Arxiu named.conf.local](named.conf.local)
+[Arxiu named.conf.options](named.conf.options)
+[Arxiu de zones](zones)
 [Tornar pàgina projecte](../README.md)
