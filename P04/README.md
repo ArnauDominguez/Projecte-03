@@ -87,6 +87,6 @@ producte04/
 Això garantirà una estructura clara i fàcil de replicar en qualsevol servidor Linux que utilitzi **Bind9**.
 
 
-[Solucio](Solucio.md)
+[Arxiun named.conf.local](named.conf.local)
 
 [Tornar pàgina projecte](../README.md)
