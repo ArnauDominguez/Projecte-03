@@ -1,1 +1,33 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns1.digicore-08.test. root.digicore-08.test. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	  IN	NS	 ns1.digicore-08.test.
+8	  IN	PTR	 server.digicore-08.test.
+108	IN	PTR	 dbserver.digicore-08.test.
 
+---
+
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns1.digicore-08.test. root.digicore-08.test (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+	  	   IN	NS	ns1.digicore-08.test.
+ns1	 	   IN	A	192.168.4.8
+server	 IN	A	192.168.4.8
+dbserver IN	A	192.168.4.108
+data	   IN	CNAME	dbserver.digicore-08.test.
